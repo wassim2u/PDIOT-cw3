@@ -91,7 +91,7 @@ nest-asyncio=1.5.1=pyhd8ed1ab_0
 notebook=6.4.4=pyha770c72_0
 numba=0.54.0=pypi_0
 numexpr=2.7.3=py37h5873af2_1
-numpy=1.19.5=pypi_0
+numpy=1.18.5=pypi_0
 olefile=0.46=py37_0
 openjpeg=2.4.0=h66ea3da_0
 openssl=1.1.1l=h9ed2024_0
